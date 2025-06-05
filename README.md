@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysioclarit" alt="jaysioclarit" /></a> </p>
 
-- 🔭 I’m currently working on **Bookmark Manager**
+- 🔭 I’m currently working on **Bookmark Managersss**
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, JDBC**
 
