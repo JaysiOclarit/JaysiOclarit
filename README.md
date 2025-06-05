@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jan Christer Oclarit</h1>
-<h3 align="center">An aspiring software developer in Philippines</h3>
+<h3 align="center">An aspiring software developer in Davao City, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaysioclarit&label=Profile%20views&color=0e75b6&style=flat" alt="jaysioclarit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaysioclarit" alt="jaysioclarit" /></a> </p>
 
-- 🔭 I’m currently working on **Bookmark Managersss**
-
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, JDBC**
+- 👨‍💻 All of my projects are available at [https://github.com/JaysiOclarit?tab=repositories](https://github.com/JaysiOclarit?tab=repositories)
 
 - 📫 How to reach me **janchristeroclarit4@gmail.com**
 
